@@ -1,2 +1,2 @@
-import { PasswordPolicy } from "./policy.ts"
+export { PasswordPolicy, PasswordPolicyResults } from "./policy.ts"
 
