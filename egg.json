@@ -1,0 +1,22 @@
+{
+  "name": "pwchecker",
+  "description": "A tool to check the password security.",
+  "version": "v0.1.0",
+  "files": [
+    "./mod.ts",
+    "./entropy.ts",
+    "./entropty_test.ts",
+    "./policy.ts",
+    "./policy_test.ts",
+    "READNE.md",
+    "LICENSE"
+  ],
+  "ignore": [
+    ".git",
+    ".github"
+  ],
+  "checkFormat": false,
+  "checkTests": false,
+  "checkInstallation": false,
+  "check": true
+}
