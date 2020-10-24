@@ -2,7 +2,7 @@
 const specialChars = /[ `!@#$%^&*()_+\-=\[\]{};':"\\|,.<>\/?~]/;
 
 
-interface PasswordPolicyResults {
+export interface PasswordPolicyResults {
     hasMinLen: boolean;
     hasMinUppercase: boolean;
     hasMinLowercase: boolean;
@@ -78,4 +78,4 @@ class PasswordPolicy {
     }
 }
 
-export { PasswordPolicy, PasswordPolicyResults }
+export { PasswordPolicy }
