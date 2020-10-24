@@ -8,8 +8,8 @@
     "./entropy_test.ts",
     "./policy.ts",
     "./policy_test.ts",
-    "READNE.md",
-    "LICENSE"
+    "./README.md",
+    "./LICENSE"
   ],
   "ignore": [
     ".git",
