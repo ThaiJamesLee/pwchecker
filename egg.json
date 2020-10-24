@@ -2,9 +2,9 @@
   "name": "pwchecker",
   "description": "A tool to check the password security.",
   "version": "v0.1.0",
+  "entry": "mod.ts",
   "files": [
     "./entropy.ts",
-    "./mod.ts",
     "./entropy_test.ts",
     "./policy.ts",
     "./policy_test.ts",
