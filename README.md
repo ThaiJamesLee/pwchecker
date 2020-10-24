@@ -1,4 +1,5 @@
-![CI](https://github.com/ThaiJamesLee/pwchecker/workflows/CI/badge.svg)
+![CI](https://github.com/ThaiJamesLee/pwchecker/workflows/CI/badge.svg) [![nest badge](https://nest.land/badge-block.svg)](https://nest.land/package/pwchecker)
+
 
 # pwchecker
 
