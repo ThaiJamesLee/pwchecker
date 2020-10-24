@@ -5,7 +5,7 @@
   "files": [
     "./mod.ts",
     "./entropy.ts",
-    "./entropty_test.ts",
+    "./entropy_test.ts",
     "./policy.ts",
     "./policy_test.ts",
     "READNE.md",
